@@ -66,7 +66,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 </p>
 ---
 
-💼 LinkedIn: https://www.linkedin.com/in/marcio-costa-9001/
-
 
 ⭐ *“Sempre aprendendo e evoluindo como desenvolvedor.”*
